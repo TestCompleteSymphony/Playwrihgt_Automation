@@ -10,5 +10,5 @@ if (tag) {
   command += ` --grep "@${tag}"`;
 }
 
-console.log(`👉 Running tests on [${browser}] for [${env}] env with [${tag || 'all'}] tests`);
+console.log(`Running tests on [${browser}] for [${env}] env with [${tag || 'all'}] tests`);
 execSync(command, { stdio: 'inherit' });
