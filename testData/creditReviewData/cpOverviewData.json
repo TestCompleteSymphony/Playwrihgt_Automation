@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "Key": "CP_OverView_Data_City",
+      "ultimateCounterparty": "CTY BURBANK",
+      "ultimateCPShortName": "CTY BURBANK",
+      "creditOfficer": "Dickson Jiang",
+      "mainCreditOfficer": "Unknown Analyst",
+      "Primary Office Location": "Egypt",
+      "GICS Industry": "Oil & Gas Refining & Marketing"
+    },
+    {
+      "Key": "CP_OverView_Data_EGPC",
+      "ultimateCounterparty": "EGYPTIAN GENERAL PETROLEUM CORPORATION (EGPC)",
+      "ultimateCPShortName": "EGPC",
+      "creditOfficer": "Dickson Jiang",
+      "mainCreditOfficer": "Unknown Analyst",
+      "Primary Office Location": "Egypt",
+      "GICS Industry": "Oil & Gas Refining & Marketing"
+    },
+    {
+      "Key": "CP_OverView_Data_EGPC_DRAFT",
+      "ultimateCounterparty": "EGYPTIAN GENERAL PETROLEUM CORPORATION (EGPC)",
+      "ultimateCPShortName": "EGPC",
+      "creditOfficer": "Dickson Jiang",
+      "mainCreditOfficer": "Unknown Analyst",
+      "Primary Office Location": "Romania",
+      "GICS Industry": "Oil & Gas Refining & Marketing"
+    },
+    {
+      "Key": "CP_OverView_Reset_EGPC",
+      "ultimateCounterparty": "EGYPTIAN GENERAL PETROLEUM CORPORATION (EGPC)",
+      "ultimateCPShortName": "EGPC",
+      "creditOfficer": "Dickson Jiang",
+      "mainCreditOfficer": "Unknown Analyst",
+      "Primary Office Location": "Egypt",
+      "GICS Industry": "Oil & Gas Refining & Marketing"
+    }
+  ]
+}

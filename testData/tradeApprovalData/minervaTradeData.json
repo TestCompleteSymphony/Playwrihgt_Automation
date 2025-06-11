@@ -1,0 +1,31 @@
+{
+    "rows": [
+        {
+            "Key": "MinervaTrade1",
+            "BookingCompany": "MINERVA USA BC",
+            "CounterParty": "EGYPTIAN GENERAL PETROLEUM CORPORATION (EGPC)",
+            "Vessel/IMO": "MinervaVessel",
+            "Margin": "Test",
+            "StartDate": "Today",
+            "EndDate": "MonthEnd",
+            "PaymentTerms": "4",
+            "Port": "AutoPort",
+            "ProdType1": "HSFO",
+            "Price1": "30",
+            "Volume1": "200",
+            "Unit1": "MT",
+            "ProdType2": "VLSFO",
+            "Price2": "40",
+            "Volume2": "300",
+            "Unit2": "MT",
+            "Add Price/Volume Pair": "1"
+        },
+        {
+            "Key": "MinervaTrade_Key1",
+            "tradingEntity": "MINERVA USA BC",
+            "tradingCounterparty": "EGPC",
+            "buySellFlag": "S",
+            "notionalAmount": "12,000"
+        }
+    ]
+}

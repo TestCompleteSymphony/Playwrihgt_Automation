@@ -1,0 +1,111 @@
+{
+  "rows": [
+    {
+      "Key": "Limits_input_Data_CTY",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "100000",
+      "MTMLimit": "60",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "100,060",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MERC",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "100000",
+      "MTMLimit": "60",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "100,060",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MINERVA",
+      "Trading_Entity": "MINERVA USA BC",
+      "settelmentExpLimit": "200000",
+      "MTMLimit": "50",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "200,050",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MBPTE",
+      "Trading_Entity": "MBPTE BC",
+      "settelmentExpLimit": "600000",
+      "MTMLimit": "70",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "600,070",
+      "TotalMax": "402,870",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C2_MERC",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "300000",
+      "MTMLimit": "30",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "300,030",
+      "TotalMax": "300000",
+      "TotalSum": "400000",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C2_MINERVA",
+      "Trading_Entity": "MINERVA USA BC",
+      "settelmentExpLimit": "500000",
+      "MTMLimit": "12",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "No",
+      "TradeEntityTotal": "500,012",
+      "TotalMax": "300000",
+      "TotalSum": "400000",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "TotalsData_K1",
+      "TotalMax": "800,042",
+      "TotalGrossLimitMax": "300,000",
+      "settelmentExpLimitMax": "300,000",
+      "MtmMax": "60",
+      "Insured_Coverage_Max": "",
+      "R_Insured_Limit_Max": "",
+      "TotalGrossLimitSum": "400,000",
+      "TotalSum": "1,100,152",
+      "settelmentExpLimitSum": "400,000",
+      "MtmSum": "90",
+      "Insured_Coverage_Sum": "",
+      "R_Insured_Limit_Sum": "",
+      "Is DCL?": ""
+    },
+    {
+      "Key": "CP_CTY_Limits",
+      "TotalMax": "301,110",
+      "settelmentExpLimitMax": "100,000200,500",
+      "MtmMax": "6023",
+      "Is DCL?": "No"
+    }
+  ]
+}

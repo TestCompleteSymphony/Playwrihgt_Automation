@@ -1,0 +1,72 @@
+{
+    "rows": [
+        {
+            "Key": "PCG_Val_Received_K1",
+            "PGCType": "Received",
+            "PGCName": "EGPC MIDOR MERCURIA CAN BC R",
+            "Status": "Active",
+            "Governing Law": "Cuba",
+            "Guarantor (Counterparty)": "EGPC",
+            "Guarantee Amount": "$120,000",
+            "Guarantee Currency": "USD",
+            "Security Type": "Parent Company Guarantee",
+            "Recipients (Trading Entity)": "MERCURIA CAN BC",
+            "Covered Parties (Counterparties)": "MIDOR",
+            "Effective Date": "Today",
+            "Expiry Date": "Evergreen",
+            "Description": "PGC for a CounterParty Received",
+            "Incoming PCG": "MERCURIA CAN BC"
+        },
+        {
+            "Key": "PCG_Val_Given_K1",
+            "PGCType": "Given",
+            "PGCName": "MERC EGY GR BC MIDOR MEA BC G",
+            "Status": "Active",
+            "Governing Law": "Albania",
+            "Guarantor (Counterparty)": "MERC EGY GR BC",
+            "Guarantee Amount": "$120,000",
+            "Guarantee Currency": "USD",
+            "Security Type": "Parent Company Guarantee",
+            "Recipients (Trading Entity)": "MIDOR",
+            "Covered Parties (Counterparties)": "MBPTE BCMEA BC",
+            "Effective Date": "Today",
+            "Expiry Date": "Evergreen",
+            "Description": "PGC for a CounterParty Given",
+            "Outgoing PCG": "MERC EGY GR BC - MIDOR - MEA BC - G"
+        },
+        {
+            "Key": "PCG_Val_ED_Received_K1",
+            "PGCType": "Received",
+            "PGCName": "EGPC MIDOR MERCURIA CAN BC R",
+            "Status": "Active",
+            "Governing Law": "Gaza Strip",
+            "Guarantor (Counterparty)": "EGPC",
+            "Guarantee Amount": "€140,000",
+            "Guarantee Currency": "EUR",
+            "Security Type": "Parent Company Guarantee",
+            "Recipients (Trading Entity)": "UPSTREAM LATINOAMERICA S.L.",
+            "Covered Parties (Counterparties)": "MIDORMINERVA ESP CP",
+            "Effective Date": "Today",
+            "Expiry Date": "Evergreen",
+            "Description": "PGC for a CounterParty Received Edited",
+            "Incoming PCG": "MERCURIA CAN BC"
+        },
+        {
+            "Key": "PCG_Val_ED_Given_K1",
+            "PGCType": "Given",
+            "PGCName": "MERC EGY GR BC MIDOR MEA BC G",
+            "Status": "Active",
+            "Governing Law": "Antarctica",
+            "Guarantor (Counterparty)": "MERC EGY GR BC",
+            "Guarantee Amount": "€180,000",
+            "Guarantee Currency": "EUR",
+            "Security Type": "Parent Company Guarantee",
+            "Recipients (Trading Entity)": "MIDOR",
+            "Covered Parties (Counterparties)": "MEA BCMBPTE BC",
+            "Effective Date": "Today",
+            "Expiry Date": "Evergreen",
+            "Description": "PGC for a CounterParty Given Edited",
+            "Outgoing PCG": "MBPTE"
+        }
+    ]
+}

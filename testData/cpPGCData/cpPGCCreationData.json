@@ -1,0 +1,52 @@
+{
+    "rows": [
+        {
+            "Key": "PCG_New_Received_K1",
+            "PGCType": "Received",
+            "Governing Law": "Cuba",
+            "Guarantor (Counterparty)": "EGPC",
+            "Amount": "120,000",
+            "Currency": "USD",
+            "Recipients (Trading Entity)": "MERCURIA CAN BC",
+            "Covered Parties (Counterparties)": "MIDOR",
+            "Description": "PGC for a CounterParty Received",
+            "Incoming PCG": "MERCURIA CAN BC - R"
+        },
+        {
+            "Key": "PCG_New_Given_K1",
+            "PGCType": "Given",
+            "Governing Law": "Albania",
+            "Guarantor (Counterparty)": "MERC EGY GR BC",
+            "Amount": "120,000",
+            "Currency": "USD",
+            "Recipients (Trading Entity)": "MIDOR",
+            "Covered Parties (Counterparties)": "MEA BC,MBPTE BC",
+            "Description": "PGC for a CounterParty Given",
+            "Outgoing PCG": "MIDOR"
+        },
+        {
+            "Key": "PCG_Edit_Received_k1",
+            "PGCType": "Received",
+            "Governing Law": "Gaza Strip",
+            "Guarantor (Counterparty)": "",
+            "Amount": "140,000",
+            "Currency": "EUR",
+            "Recipients (Trading Entity)": "UPSTREAM LATINOAMERICA S.L.",
+            "Covered Parties (Counterparties)": "MINERVA ESP CP",
+            "Description": "PGC for a CounterParty Received Edited",
+            "Incoming PCG": "EGPC - MIDOR - MERCURIA CAN BC - R"
+        },
+        {
+            "Key": "PCG_Edit_Given_k1",
+            "PGCType": "Given",
+            "Governing Law": "Antarctica",
+            "Guarantor (Counterparty)": "",
+            "Amount": "180,000",
+            "Currency": "EUR",
+            "Recipients (Trading Entity)": "",
+            "Covered Parties (Counterparties)": "",
+            "Description": "PGC for a CounterParty Given Edited",
+            "Outgoing PCG": "MIDOR"
+        }
+    ]
+}

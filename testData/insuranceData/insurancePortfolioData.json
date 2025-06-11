@@ -1,0 +1,64 @@
+{
+    "rows": [
+        {
+            "Key": "new_port_data_k1",
+            "status": "Draft",
+            "creditOfficer": "Unknown Analyst",
+            "name": "Insurance_Auto_Port",
+            "insurer": "tester",
+            "policyNumber": "Aut_12345",
+            "broker": "TestBroker",
+            "mercuriaEntityList": "MERCURIA GVA BC",
+            "currency": "USD",
+            "DCLorNameLimit": "DCL",
+            "insuranceMaximumLiability": "100,000,000",
+            "maxDiscretionaryLimit": "2,000,000",
+            "nameLimitInsuranceMaximumLiability": "50,000,000",
+            "indemnityAmount": "90.00",
+            "premium": "5.00",
+            "maxCreditTerms": "30",
+            "dclInsuranceMaximumLiability": "50,000,000",
+            "deductible": "5,000,000",
+            "comments": "Test insurance portfolio"
+        },
+        {
+            "Key": "add_counterParty_k1",
+            "insuranceType": "Posrtfolio Insurance",
+            "policyType": "Ground Up",
+            "cpName1": "EGPC",
+            "cpName2": "MIDOR",
+            "mercEntity": "MERCURIA GVA BC",
+            "poliStartDate": "today",
+            "poliEndDate": "1 year",
+            "TotalAmount": "MAX",
+            "PolicyAmount": "2,000,000.00",
+            "PllicyCurrency": "USD",
+            "Cp1Amount": "2,000,000",
+            "Cp2Amount": "2,000,0000"
+        },
+        {
+            "Key": "PCG_Edit_Received_k1",
+            "PGCType": "Received",
+            "Governing Law": "Gaza Strip",
+            "Guarantor (Counterparty)": "",
+            "Amount": "140,000",
+            "Currency": "EUR",
+            "Recipients (Trading Entity)": "UPSTREAM LATINOAMERICA S.L.",
+            "Covered Parties (Counterparties)": "MINERVA ESP CP",
+            "Description": "PGC for a CounterParty Received Edited",
+            "Incoming PCG": "EGPC - MIDOR - MERCURIA CAN BC - R"
+        },
+        {
+            "Key": "PCG_Edit_Given_k1",
+            "PGCType": "Given",
+            "Governing Law": "Antarctica",
+            "Guarantor (Counterparty)": "",
+            "Amount": "180,000",
+            "Currency": "EUR",
+            "Recipients (Trading Entity)": "",
+            "Covered Parties (Counterparties)": "",
+            "Description": "PGC for a CounterParty Given Edited",
+            "Outgoing PCG": "MIDOR"
+        }
+    ]
+}

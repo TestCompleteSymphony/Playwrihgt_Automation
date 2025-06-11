@@ -1,0 +1,123 @@
+{
+  "rows": [
+    {
+      "Key": "Limits_input_Data_CTY",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "100000",
+      "MTMLimit": "60",
+      "InsuredCoverage": "2000",
+      "insuredPercentage": "15",
+      "Is DCL?": "Yes",
+      "TradeEntityTotal": "101,760",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MERC",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "200000",
+      "MTMLimit": "60",
+      "InsuredCoverage": "2000",
+      "insuredPercentage": "15",
+      "Is DCL?": "Yes",
+      "TradeEntityTotal": "101,760",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MERC_UP",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "400000",
+      "MTMLimit": "80",
+      "InsuredCoverage": "2000",
+      "insuredPercentage": "15",
+      "Is DCL?": "Yes",
+      "TradeEntityTotal": "101,760",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MINERVA",
+      "Trading_Entity": "MINERVA USA BC",
+      "settelmentExpLimit": "300000",
+      "MTMLimit": "50",
+      "InsuredCoverage": "9000",
+      "insuredPercentage": "10",
+      "Is DCL?": "Yes",
+      "TradeEntityTotal": "200,050",
+      "TotalMax": "100000",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C1_MBPTE",
+      "Trading_Entity": "MBPTE BC",
+      "settelmentExpLimit": "600000",
+      "MTMLimit": "70",
+      "InsuredCoverage": "4000",
+      "insuredPercentage": "16",
+      "Is DCL?": "Yes",
+      "TradeEntityTotal": "600,070",
+      "TotalMax": "402,870",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C2_MERC",
+      "Trading_Entity": "MERC EGY GR BC",
+      "settelmentExpLimit": "300000",
+      "MTMLimit": "80",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "",
+      "TotalMax": "",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "limit_data_C2_MINERVA",
+      "Trading_Entity": "MINERVA USA BC",
+      "settelmentExpLimit": "500000",
+      "MTMLimit": "120",
+      "InsuredCoverage": "",
+      "insuredPercentage": "",
+      "Is DCL?": "",
+      "TradeEntityTotal": "",
+      "TotalMax": "",
+      "TotalSum": "",
+      "MtmMax": "",
+      "MtmSum": ""
+    },
+    {
+      "Key": "TotalsData_K1",
+      "TotalMax": "301,110",
+      "settelmentExpLimitMax": "300,000",
+      "MtmMax": "60",
+      "Insured_Coverage_Max": "2,000",
+      "R_Insured_Limit_Max": "1,700",
+      "TotalSum": "402,870",
+      "settelmentExpLimitSum": "400,000",
+      "MtmSum": "90",
+      "Insured_Coverage_Sum": "3,200",
+      "R_Insured_Limit_Sum": "2,780",
+      "Is DCL?": "Yes"
+    },
+    {
+      "Key": "CP_CTY_Limits",
+      "TotalMax": "301,110",
+      "settelmentExpLimitMax": "100,000200,500",
+      "MtmMax": "6023",
+      "Is DCL?": "No"
+    }
+  ]
+}

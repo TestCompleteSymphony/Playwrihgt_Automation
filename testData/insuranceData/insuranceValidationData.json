@@ -1,0 +1,30 @@
+{
+    "rows": [
+        {
+            "Key": "Port_Insu_Policy_k1",
+            "name": "Insurance_Auto_Port",
+            "status": "Draft",
+            "Credit Officer": "Unknown Analyst",
+            "Policy Number": "Aut_12345",
+            "Currency": "USD",
+            "Maximum Credit Terms": "30",
+            "IML": "100,000,000",
+            "Deductible": "5,000,000 ",
+            "Premium Rate": "5.00%",
+            "Comments": "Test"
+        },
+        {
+            "Key": "Port_Insu_Policy_DCL",
+            "name": "Insurance_Auto_Port DCL",
+            "status": "Draft",
+            "DCL Max Amount": "2,000,000",
+            "DCL Maximum Liability": "50,000,000",
+            "Total Net Exposure": "0",
+            "Total Gross Exposure": "0",
+            "Policy Currency": "USD",
+            "Total DCL": "0",
+            "Names in Excess": "0",
+            "Number of Counterparties": "0"
+        }
+    ]
+}

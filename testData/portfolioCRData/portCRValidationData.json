@@ -1,0 +1,280 @@
+{
+  "rows": [
+    {
+      "Key": "CP_Ratings_Port",
+      "CounterParty": "AutomationTest_Portfolio",
+      "countryOfRisk": "",
+      "internalRating": "BBB+",
+      "moodysRating": "",
+      "sNpRating": ""
+    },
+    {
+      "Key": "CP_SAG_Ratings_CP",
+      "CounterParty": "SOGARA",
+      "countryOfRisk": "Romania",
+      "internalRating": "AA+Not Rated",
+      "moodysRating": "A3Not Rated",
+      "sNpRating": "BBB+Not Rated"
+    },
+    {
+      "Key": "CP_SAG_Ratings_CP_Sover",
+      "CounterParty": "SOGARA",
+      "countryOfRisk": "",
+      "internalRating": "AA+Not Rated",
+      "moodysRating": "A3Not Rated",
+      "sNpRating": "BBB+Not Rated"
+    },
+    {
+      "Key": "CP_EGPC_Ratings_CP",
+      "CounterParty": "EGPC",
+      "countryOfRisk": "Romania",
+      "internalRating": "CCC+Not Rated",
+      "moodysRating": "Ba1Not Rated",
+      "sNpRating": "BBB+Not Rated"
+    },
+    {
+      "Key": "CP_Ratings_Port_UP",
+      "CounterParty": "AutomationTest_Portfolio",
+      "countryOfRisk": "",
+      "internalRating": "CCC+",
+      "moodysRating": "",
+      "sNpRating": ""
+    },
+    {
+      "Key": "CP_SAG_Ratings_CP_UP",
+      "CounterParty": "SOGARA",
+      "countryOfRisk": "Romania",
+      "internalRating": "CCC+AA+",
+      "moodysRating": "A3A3",
+      "sNpRating": "BBB+BBB+"
+    },
+    {
+      "Key": "CP_EGPC_Ratings_CP_UP",
+      "CounterParty": "EGPC",
+      "countryOfRisk": "Romania",
+      "internalRating": "CCC+CCC+",
+      "moodysRating": "Ba1Ba1",
+      "sNpRating": "BBB+BBB+"
+    },
+    {
+      "Key": "CP_SAG_Ratings_Port",
+      "CounterParty": "AutomationTest_Portfolio",
+      "countryOfRisk": "",
+      "internalRating": "BBB+",
+      "moodysRating": "",
+      "sNpRating": ""
+    },
+    {
+      "Key": "PCP_Sogara_Overview_Data",
+      "CounterParty": "SOGARA",
+      "mainCreditOfficer": "Gabriel Guedec",
+      "Rating": "AA+",
+      "Limit": "500,110",
+      "NextReviewData": "nextYaer",
+      "Industry": "Oil & Gas Refining & Marketing",
+      "DomicileCountry": "Gabon",
+      "CountryofRisk": "Romania",
+      "Counterparty Type": "Customer",
+      "Portfolio": ""
+    },
+    {
+      "Key": "CP_SOGARA_OverView_Ratings",
+      "CounterParty": "SOGARA",
+      "countryOfRisk": "",
+      "internalRating": "AA+",
+      "moodysRating": "A3",
+      "sNpRating": "BBB+"
+    },
+    {
+      "Key": "CP_SOGARA_OverView_Limits_Grp",
+      "Short Name": "SOGARA (GROUP)",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Gross Limit": "500,000",
+      "Total Limit": "500,110",
+      "Settlement Limit": "200,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "60",
+      "Insured Coverage": "",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_SOGARA_OverView_Limits_TE1",
+      "Short Name": "SOGARA",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Gross Limit": "500,000",
+      "Total Limit": "500,110",
+      "Settlement Limit": "200,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "60",
+      "Insured Coverage": "",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_SOGARA_OverView_Limits_TE2",
+      "Short Name": "SOGARA",
+      "Mercuria Entity": "MINERVA USA BC",
+      "Total Gross Limit": "300,000",
+      "Total Limit": "300,050",
+      "Settlement Limit": "300,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "50",
+      "Insured Coverage": "",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_EGPC_Ratings",
+      "CounterParty": "EGPC",
+      "countryOfRisk": "Romania",
+      "internalRating": "AA+",
+      "moodysRating": "A1",
+      "sNpRating": "CCC+"
+    },
+    {
+      "Key": "CP_MIDOR_Ratings",
+      "CounterParty": "MIDOR",
+      "countryOfRisk": "Egypt",
+      "internalRating": "AA+",
+      "moodysRating": "B3",
+      "sNpRating": "BBB+"
+    },
+    {
+      "Key": "CP_CTY_Ratings",
+      "CounterParty": "CTY BURBANK",
+      "countryOfRisk": "Default",
+      "internalRating": "AA+BBB+",
+      "moodysRating": "A3B1",
+      "sNpRating": "BBB+AA-"
+    },
+    {
+      "Key": "CP_EGPC_OverView",
+      "CounterParty": "EGPC",
+      "mainCreditOfficer": "Gabriel Guedec",
+      "Rating": "AA+",
+      "Limit": "101,760",
+      "NextReviewData": "nextYaer",
+      "Industry": "Oil & Gas Refining & Marketing",
+      "DomicileCountry": "Egypt",
+      "CountryofRisk": "Romania",
+      "Counterparty Type": "Customer"
+    },
+    {
+      "Key": "CP_MIDOR_OverView",
+      "CounterParty": "MIDOR",
+      "mainCreditOfficer": "Gabriel Guedec",
+      "Rating": "AA+",
+      "Limit": "301,110",
+      "NextReviewData": "nextYaer",
+      "Industry": "Oil & Gas Refining & Marketing",
+      "DomicileCountry": "Egypt",
+      "CountryofRisk": "Egypt",
+      "Counterparty Type": "Customer"
+    },
+    {
+      "Key": "CP_EGPC_Limits_Grp",
+      "Short Name": "EGPC (GROUP)",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Limit": "402,870",
+      "Settlement Limit": "400,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "90",
+      "Insured Coverage": "3,200",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "2,780",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_EGPC_Limits_CP1_TE1",
+      "Short Name": "EGPC",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Limit": "101,760",
+      "Settlement Limit": "100,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "60",
+      "Insured Coverage": "2,000",
+      "Insured Percentage": "15%",
+      "Residual Insured Limit": "1,700",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_EGPC_Limits_CP1_TE2",
+      "Short Name": "EGPC",
+      "Mercuria Entity": "MINERVA USA BC",
+      "Total Limit": "200,050",
+      "Settlement Limit": "200,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "50",
+      "Insured Coverage": "9,000",
+      "Insured Percentage": "10%",
+      "Residual Insured Limit": "8,100",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_MIDOR_Limits_CP2_TE1",
+      "Short Name": "MIDOR",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Limit": "301,110",
+      "Settlement Limit": "300,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "30",
+      "Insured Coverage": "1,200",
+      "Insured Percentage": "10%",
+      "Residual Insured Limit": "1,080",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_MIDOR_Limits_CP2_TE2",
+      "Short Name": "MIDOR",
+      "Mercuria Entity": "MINERVA USA BC",
+      "Total Limit": "500,012",
+      "Settlement Limit": "500,000",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "12",
+      "Insured Coverage": "",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_CTY_Limits_CP_UP",
+      "Short Name": "CITY OF BURBANK",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Limit": "",
+      "Settlement Limit": "100,000200,500",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "6023",
+      "Insured Coverage": "",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "",
+      "CVA": "",
+      "Last Updated": "Today"
+    },
+    {
+      "Key": "CP_CTY_Limits_Grp",
+      "Short Name": "CITY OF BURBANK",
+      "Mercuria Entity": "MERC EGY GR BC",
+      "Total Limit": "",
+      "Settlement Limit": "100,000200,500",
+      "Upper Settlement Limit": "",
+      "MTM Limit": "6023",
+      "Insured Coverage": "",
+      "Insured Percentage": "",
+      "Residual Insured Limit": "",
+      "CVA": "",
+      "Last Updated": "Today"
+    }
+  ]
+}

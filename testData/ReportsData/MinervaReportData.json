@@ -1,0 +1,18 @@
+{
+    "rows": [
+        {
+            "Key": "Minerva_RData",
+            "FamID": "3",
+            "Comments": "minerva Report Test",
+            "CheckWithCreditFlag": "Yes",
+            "SelDateDelay": "4"
+        },
+        {
+            "Key": "Minerva_RData_D1",
+            "FamID": "6",
+            "Comments": "minerva Report Test discard",
+            "CheckWithCreditFlag": "No",
+            "SelDateDelay": "44"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+
+
+playwrihgt_test
+.gitworkflow
+  gitfile.yml
+test
+  features
+   pages
+   steps
+
+data/Fixtures
+  data.json
+
+utils
+ databaseutils
+appuils
+
+cuncumber.js
+packag.json
+playwright.config.json
+
+
+login page 
+
+const logindata=require(data.json)
+
+Scenario:login test
+  Given user logged in to apllicarion '"data.json"'
+ 
+
+Given('user enter username{filename}',async (flename)=>{
+   enteruser(filename)
+
+})
+login.js
+const fs= require('fs')
+  
+ function login(filename){
+
+ userdata=fs.Json(filename)
+  for(let user of ){
+
+
+ await page.locator('username').fill(user.username)
+await page.locator(''password).fill(user.password)
+
+const frameObf= pag
+
+
+  
+
+  
+
+
+}
+
+
+
+
+
+  
