@@ -13,8 +13,12 @@ class CreditReview{
 
        
     }
+
+    async createNewCreditReview(cpnName,jsonFileName,Key){
+        await  this.utils.pageUtils.click(this.addCreditReviewBtn,`clicking on:`+menuName)
+    }
     async checkCreditReviewRecordExixtance(cpName,status){
-        
+
 
     }
 
