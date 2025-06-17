@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "window.zoomLevel": 0,
+    "gherkin-autocomplete.featuresPath": "./src/tests/featureFiles/**/*.feature",
+    "cucumberautocomplete.steps": [
+        "./src/tests/steps/*.js",
+    ],
+    "cucumberautocomplete.syncfeatures": "./src/tests/featureFiles/**/*.feature",
+}

@@ -1,0 +1,47 @@
+name: Playwright Test Suite
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  run-smoke-and-regression-tests:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      
+      - name: Install Dependencies
+        run: npm ci
+      
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+      
+      - name: Install Global Dependencies
+        run: npm install -g cross-env
+      
+      - name: List Project Files
+        run: ls -la
+        
+      - name: Check Playwright installation
+        run: npx playwright --version
+      
+      - name: Run Smoke Tests on QA
+        run: |
+          npx cross-env ENV=dev BROWSER=chromium TAG=smoke node test-runner.js
+      
+      - name: Upload Playwright Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
